@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/cover.png" alt="Project Cover" />
+</p>
+
 <div align="center">
 
 # Turkcell Pasaj E-Commerce Frontend
